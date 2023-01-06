@@ -1,5 +1,5 @@
 export default function Callback() {
-    if (typeof window != "/dashboard/callback") {
+    if (typeof window != "https://custom-giveaways.ml/v1/tr/dashboard/callback") {
         window.close();
     };
     
