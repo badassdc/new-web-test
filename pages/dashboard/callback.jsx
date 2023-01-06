@@ -1,5 +1,5 @@
 export default function Callback() {
-    if (typeof window != "https://custom-giveaways.ml/v1/auth/") {
+    if (typeof window != "https://custom-giveaways.ml/v1/auth/login") {
         window.close();
     };
     
