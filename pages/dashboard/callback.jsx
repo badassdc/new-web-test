@@ -1,5 +1,5 @@
 export default function Callback() {
-    if (typeof window != "undefined") {
+    if (typeof window != "/dashboard/callback") {
         window.close();
     };
     
